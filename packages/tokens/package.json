@@ -1,0 +1,10 @@
+{
+  "name": "@combined/tokens",
+  "version": "0.1.0",
+  "private": true,
+  "exports": {
+    "./css": "./src/tokens.css",
+    "./tailwind": "./src/tailwind.config.ts"
+  },
+  "files": ["src"]
+}
